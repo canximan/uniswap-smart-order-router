@@ -6,6 +6,5 @@ node_modules
 src/**.js
 coverage
 *.log
-yarn.lock
 .env
 cache/
